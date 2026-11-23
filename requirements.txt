@@ -1,0 +1,8 @@
+numpy
+opencv-python-headless
+Pillow
+torch>=2.4
+torchvision
+pytorch-msssim
+lpips
+scipy
